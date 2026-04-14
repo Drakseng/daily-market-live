@@ -1,0 +1,27 @@
+{
+  "date": "14 Nisan 2026",
+  "bist100": { "price": 14256.49, "changePercent": 1.41 },
+  "breadth": { "gainers": 189, "losers": 408 },
+  "totalVolume": "34.8 Milyar TL",
+  "gainers": [
+    { "symbol": "BRYAT", "change": 122.00 },
+    { "symbol": "BRSAN", "change": 47.50 },
+    { "symbol": "KLRHO", "change": 7.60 },
+    { "symbol": "ENKAI", "change": 7.10 },
+    { "symbol": "EFOR",  "change": 0.55 }
+  ],
+  "losers": [
+    { "symbol": "GRTHO", "change": -22.00 },
+    { "symbol": "ECILC", "change": -6.70 },
+    { "symbol": "EUPWR", "change": -0.84 },
+    { "symbol": "DAPGM", "change": -0.25 },
+    { "symbol": "KONTR", "change": -0.13 }
+  ],
+  "volumeLeaders": [
+    { "symbol": "THYAO", "volume": "9.9 Milyar TL" },
+    { "symbol": "ASELS", "volume": "7.7 Milyar TL" },
+    { "symbol": "YKBNK", "volume": "6.2 Milyar TL" },
+    { "symbol": "ISCTR", "volume": "5.6 Milyar TL" },
+    { "symbol": "TUPRS", "volume": "5.4 Milyar TL" }
+  ]
+}
